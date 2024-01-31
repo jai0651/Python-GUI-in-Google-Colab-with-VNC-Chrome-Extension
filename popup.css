@@ -1,0 +1,24 @@
+/* popup.css */
+body {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  #popup-container {
+    text-align: center;
+  }
+  
+  #vnc-url {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  
+  #connect-btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
