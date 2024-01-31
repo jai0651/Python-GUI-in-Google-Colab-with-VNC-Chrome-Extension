@@ -3,12 +3,12 @@ noVNC client viewer, Tightvnc server
 
 
 ## Instructions to Run your Program
-extension is working fine. 
+Watch the video as suggested and follow the instruction on vnc_server_colab.ipynb file and you have to add the chrome extention to the chrome via depelopers mode
 
 
 
 ## Other Notes:
-The main problem occured was setting up vnc server in colab. vnc server is working on my localhost but not on colab. Other than that i did everything. Exposing localhost to internet via ngrok. Actually i tried almost everything , it seems like Colab has removed features to connect remotely may be. If you guide a bit, i will be able to do this completely and integrate every functionality
+It was overall a great backend learning
 
 
 
@@ -19,9 +19,4 @@ first and foremost : ChatGPT, youtube videos - https://www.youtube.com/watch?v=x
 
 
 ## Video URL
-*(Loom Preferred)*
-
-
-
-
-
+*https://www.loom.com/share/7fc832ca5971448e859eedc7044d1cc4?sid=ea84daeb-6377-44e5-8b32-fad3f04e1773 *
